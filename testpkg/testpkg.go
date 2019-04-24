@@ -23,6 +23,6 @@ func NewMethod() {
 
 // NewMethod1 new functionality implementing
 func NewMethod1() {
-	fmt.Println("hello in new method1")
+	fmt.Println("hello in new method2")
 	os.Getwd()
 }
